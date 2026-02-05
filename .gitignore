@@ -1,0 +1,46 @@
+# Build dirs
+/build/
+/out/
+/bin/
+/install/
+/dist/
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Visual Studio
+/.vs/
+/*.sln
+/*.vcxproj*
+/*.vcxproj.user
+/*.vcxproj.filters
+/*.vcxproj.user
+/*.suo
+/*.user
+/*.VC.db
+/*.opendb
+
+# MSVC build outputs
+/x64/
+/x86/
+/Debug/
+/Release/
+/RelWithDebInfo/
+/MinSizeRel/
+/*.pdb
+/*.obj
+/*.lib
+/*.dll
+/*.exe
+/*.ilk
+/*.exp
+
+# Logs
+/*.log
+
+# IDEs
+/.idea/
+/.vscode/
